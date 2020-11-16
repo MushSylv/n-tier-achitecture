@@ -1,0 +1,18 @@
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\bin\Debug\netstandard2.0\MasterClass.Core.deps.json
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\bin\Debug\netstandard2.0\MasterClass.Core.dll
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\bin\Debug\netstandard2.0\MasterClass.Core.pdb
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.csprojAssemblyReference.cache
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.AssemblyInfoInputs.cache
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.AssemblyInfo.cs
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.dll
+C:\Users\Bollydick\Documents\Architecture\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.pdb
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\bin\Debug\netstandard2.0\MasterClass.Core.deps.json
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\bin\Debug\netstandard2.0\MasterClass.Core.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\bin\Debug\netstandard2.0\MasterClass.Core.pdb
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.csprojAssemblyReference.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.AssemblyInfoInputs.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.AssemblyInfo.cs
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Core\obj\Debug\netstandard2.0\MasterClass.Core.pdb

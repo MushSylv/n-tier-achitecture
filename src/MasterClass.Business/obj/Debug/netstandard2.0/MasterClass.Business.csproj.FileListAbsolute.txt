@@ -1,0 +1,12 @@
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\bin\Debug\netstandard2.0\MasterClass.Business.deps.json
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\bin\Debug\netstandard2.0\MasterClass.Business.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\bin\Debug\netstandard2.0\MasterClass.Business.pdb
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\bin\Debug\netstandard2.0\MasterClass.Repository.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\bin\Debug\netstandard2.0\MasterClass.Repository.pdb
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\obj\Debug\netstandard2.0\MasterClass.Business.csprojAssemblyReference.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\obj\Debug\netstandard2.0\MasterClass.Business.AssemblyInfoInputs.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\obj\Debug\netstandard2.0\MasterClass.Business.AssemblyInfo.cs
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\obj\Debug\netstandard2.0\MasterClass.Business.csproj.CoreCompileInputs.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\obj\Debug\netstandard2.0\MasterClass.Business.csproj.CopyComplete
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\obj\Debug\netstandard2.0\MasterClass.Business.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Business\obj\Debug\netstandard2.0\MasterClass.Business.pdb

@@ -1,0 +1,16 @@
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Service.deps.json
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Service.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Service.pdb
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Business.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Repository.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Business.pdb
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Repository.pdb
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\obj\Debug\netstandard2.0\MasterClass.Service.csprojAssemblyReference.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\obj\Debug\netstandard2.0\MasterClass.Service.AssemblyInfoInputs.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\obj\Debug\netstandard2.0\MasterClass.Service.AssemblyInfo.cs
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\obj\Debug\netstandard2.0\MasterClass.Service.csproj.CoreCompileInputs.cache
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\obj\Debug\netstandard2.0\MasterClass.Service.csproj.CopyComplete
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\obj\Debug\netstandard2.0\MasterClass.Service.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\obj\Debug\netstandard2.0\MasterClass.Service.pdb
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Core.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Service\bin\Debug\netstandard2.0\MasterClass.Core.pdb
