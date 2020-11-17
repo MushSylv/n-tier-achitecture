@@ -52,10 +52,17 @@ namespace MasterClass.WebApi.DependencyInjection.Extensions
             options.AddSecurityRequirement(
                 new OpenApiSecurityRequirement
                 {
-            {
-                new OpenApiSecurityScheme { Scheme = JwtBearerDefaults.AuthenticationScheme },
-                new string[] {}
-            }
+                    {
+                        new OpenApiSecurityScheme
+                        {
+                            Reference = new OpenApiReference
+                            {
+                                Type = ReferenceType.SecurityScheme,
+                                Id = JwtBearerDefaults.AuthenticationScheme
+                            }
+                        },
+                        new string[] {}
+                    }
                 });
         }
     }
