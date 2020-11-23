@@ -54,12 +54,15 @@ namespace MasterClass.WebApi.DependencyInjection.Extensions
                 {
                     {
 <<<<<<< HEAD
+<<<<<<< HEAD
                         new OpenApiSecurityScheme { Scheme = JwtBearerDefaults.AuthenticationScheme },
                         new string[] {}
                     }
                 }
             );
 =======
+=======
+>>>>>>> 97ba15c790d30eac22835e78274d962dec1b6a37
                         new OpenApiSecurityScheme
                         {
                             Reference = new OpenApiReference
