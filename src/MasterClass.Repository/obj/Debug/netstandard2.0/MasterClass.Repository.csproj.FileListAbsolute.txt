@@ -1,9 +1,0 @@
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\bin\Debug\netstandard2.0\MasterClass.Repository.deps.json
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\bin\Debug\netstandard2.0\MasterClass.Repository.dll
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\bin\Debug\netstandard2.0\MasterClass.Repository.pdb
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\obj\Debug\netstandard2.0\MasterClass.Repository.csprojAssemblyReference.cache
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\obj\Debug\netstandard2.0\MasterClass.Repository.AssemblyInfoInputs.cache
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\obj\Debug\netstandard2.0\MasterClass.Repository.AssemblyInfo.cs
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\obj\Debug\netstandard2.0\MasterClass.Repository.csproj.CoreCompileInputs.cache
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\obj\Debug\netstandard2.0\MasterClass.Repository.dll
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.Repository\obj\Debug\netstandard2.0\MasterClass.Repository.pdb
