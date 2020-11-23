@@ -8,7 +8,7 @@ namespace MasterClass.Service.Interface.User
 {
     public interface IUserService
     {
-        AuthenticatedUser Authenticate(AuthenticateParameters authParams);
+        IAuthenticatedUser Authenticate(AuthenticateParameters authParams);
         ClaimsPrincipal SignIn(AuthenticateParameters authParams, string scheme);
     }
 }

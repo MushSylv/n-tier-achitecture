@@ -37,6 +37,7 @@ namespace MasterClass.Service.Identity
             var identity = new GenericIdentity(user.Id.ToString(), scheme);
             identity.AddClaim(new Claim(ClaimTypes.GivenName, user.Name));
             identity.AddClaim(new Claim(ClaimTypes.NameIdentifier, user.Login));
+            identity.AddClaims(user.GetMasterClassClaims());
             return new GenericPrincipal(identity, user.Roles);
         }
 

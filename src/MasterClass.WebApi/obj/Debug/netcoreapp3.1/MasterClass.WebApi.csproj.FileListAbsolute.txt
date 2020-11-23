@@ -58,7 +58,6 @@ C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\bin\Debug\netcoreapp3.1\MasterClass.Business.pdb
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\bin\Debug\netcoreapp3.1\MasterClass.Repository.pdb
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\obj\Debug\netcoreapp3.1\MasterClass.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\obj\Debug\netcoreapp3.1\MasterClass.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\obj\Debug\netcoreapp3.1\MasterClass.WebApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\obj\Debug\netcoreapp3.1\MasterClass.WebApi.csproj.CopyComplete
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\obj\Debug\netcoreapp3.1\MasterClass.WebApi.genruntimeconfig.cache
@@ -70,3 +69,4 @@ C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bollydick\Documents\Architecture\Multicouche .Net Core\src\MasterClass.WebApi\bin\Debug\netcoreapp3.1\tasks.json

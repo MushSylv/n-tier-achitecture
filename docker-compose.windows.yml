@@ -1,0 +1,6 @@
+version: '3.2'
+
+services:
+  masterclass:
+    volumes:
+      - $USERPROFILE/$CERT_PATH:/https

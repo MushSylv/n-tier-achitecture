@@ -1,0 +1,36 @@
+{
+  {
+    "label": "buildDocker",
+    "command": "docker-compose",
+    "type": "process",
+    "args": [
+      "-f",
+      "${workspaceFolder}/docker-compose.yml",
+      "-f",
+      "${workspaceFolder}/docker-compose.windows.yml",
+      "-f",
+      "${workspaceFolder}/docker-compose.debug.yml",
+      "up",
+      "-d",
+      "--build"
+    ],
+    "problemMatcher": "$msCompile"
+  },
+  {
+    "label": "buildDockerMacOs",
+    "command": "docker-compose",
+    "type": "process",
+    "args": [
+      "-f",
+      "${workspaceFolder}/docker-compose.yml",
+      "-f",
+      "${workspaceFolder}/docker-compose.macOs.yml",
+      "-f",
+      "${workspaceFolder}/docker-compose.debug.yml",
+      "up",
+      "-d",
+      "--build"
+    ],
+    "problemMatcher": "$msCompile"
+  }
+}

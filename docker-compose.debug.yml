@@ -1,0 +1,15 @@
+version: '3.2'
+
+services:
+  masterclass:
+    image: masterclass.webapi:debug
+    container_name: masterclass-webapi-debug
+    build:
+      dockerfile: Dockerfile.debug
+    ports:
+      - 5000:80
+      - 5001:443
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTPS_PORT=5001
+    entrypoint: tail -f /dev/null 

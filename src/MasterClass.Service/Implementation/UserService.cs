@@ -29,7 +29,7 @@ namespace MasterClass.Service.Implementation
             _clock = clock;
         }
 
-        public AuthenticatedUser Authenticate(AuthenticateParameters authParams)
+        public IAuthenticatedUser Authenticate(AuthenticateParameters authParams)
         {
             var user = _userBusiness.AuthenticateUser(authParams.Login, authParams.Password);
             if (user != null)

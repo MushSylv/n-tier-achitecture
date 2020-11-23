@@ -26,5 +26,43 @@
         "ASPNETCORE_ENVIRONMENT": "Production"
       }
     }
-  }
+  },
+
+
+    "name": ".NET Core Docker Launch (console)",
+    "type": "coreclr",
+    "request": "launch",
+    "preLaunchTask": "buildDocker",
+    "osx": {
+      "preLaunchTask": "buildDockerMacOs"
+    },
+    "program": "/app/MasterClass.WebApi.dll",
+    "cwd": "/app",
+    "sourceFileMap": {
+      "/src": "${workspaceRoot}"
+    },
+    "launchBrowser": {
+      "enabled": true,
+      "args": "http://localhost:5000/swagger",
+      "windows": {
+        "command": "cmd.exe",
+        "args": "/C start http://localhost:5000/swagger"
+      },
+      "osx": {
+        "command": "open"
+      },
+      "linux": {
+        "command": "xdg-open"
+      }
+    },
+    "pipeTransport": {
+      "pipeProgram": "docker",
+      "pipeCwd": "${workspaceRoot}",
+      "pipeArgs": [
+        "exec -i masterclass-webapi-debug"
+      ],
+      "quoteArgs": false,
+      "debuggerPath": "/vsdbg/vsdbg"
+    }
+  
 }

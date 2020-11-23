@@ -1,12 +1,12 @@
 ﻿using MasterClass.Repository.Models.Users;
+using MasterClass.Service.Interface.User;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace MasterClass.Service.Models.Users
 {
-    public class AuthenticatedUser
-    {
+    public class AuthenticatedUser: IAuthenticatedUser {
         public int Id { get; }
         public string Token { get; }
 
